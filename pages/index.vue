@@ -72,8 +72,8 @@
   </section>
 </template>
 
-<style>
+<!-- <style scoped lang="css">
   .text-shadow {
     text-shadow: 0px 4px 4px rgba(00, 00, 00, 0.5);
   }
-</style>
+</style> -->
