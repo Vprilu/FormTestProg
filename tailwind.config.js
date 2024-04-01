@@ -10,7 +10,7 @@ export default {
   ],
   theme: {
     fontFamily: {
-      mont: ['Montserrat', 'system-ui'],
+      pop: ['Poppins', 'system-ui'],
     },
     extend: {
       colors: {
